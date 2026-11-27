@@ -21,7 +21,7 @@ Dostępne są dwie paczki:
 
 ➡️ [Pobierz najnowszą wersję](https://github.com/mariuszm22/Sovereign-Syndicate-Spolszczenie-PL/releases/latest)  
 ➡️ [Pobieranie na marko22.pl](https://marko22.pl/pobieranie#sovereign-syndicate)  
-➡️ [Strona projektu i galeria](https://marko22.pl/sovereign-syndicate) · [Kulisy spolszczenia](https://marko22.pl/assets/downloads/sovereign-syndicate/Kulisy_spolszczenia_Sovereign_Syndicate_PL.html)
+➡️ [Strona projektu i galeria](https://marko22.pl/sovereign-syndicate) · [Kulisy spolszczenia](https://marko22.pl/assets/downloads/sovereign-syndicate/Kulisy_spolszczenia_Sovereign_Syndicate_PL)
 
 ## Windows SmartScreen / instalator EXE
 
